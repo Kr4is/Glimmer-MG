@@ -42,8 +42,9 @@ def main():
             p = subprocess.Popen('tar -xzvf phymmbl_installer.tar.gz', shell=True)
             os.waitpid(p.pid, 0)
 
-            # patch
+            # patchs
             shutil.copy('../phymm_patch/0_getNCBIpages.pl', '.scripts/.taxonomyInfo/0_getNCBIpages.pl')
+            shutil.copy('../phymm_patch/phymmblSetup.pl', './phymmblSetup.pl')
 
             # install
             p = subprocess.Popen('./phymmblSetup.pl', shell=True)
