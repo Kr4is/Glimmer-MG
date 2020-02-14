@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['gamma_5fml',['gamma_ml',['../kelley_8cc.html#aa1dc37444468bbf5e380dac0e5425630',1,'gamma_ml(double &amp;k, double &amp;theta, vector&lt; double &gt; &amp;dist):&#160;kelley.cc'],['../kelley_8hh.html#aa1dc37444468bbf5e380dac0e5425630',1,'gamma_ml(double &amp;k, double &amp;theta, vector&lt; double &gt; &amp;dist):&#160;kelley.cc']]],
+  ['gene_5fref_5fcmp',['Gene_Ref_Cmp',['../glimmer2_8cc.html#a67e778cfcbfb2f35bf5429875b7bf7ff',1,'glimmer2.cc']]],
+  ['gene_5ft',['Gene_t',['../class_gene__t.html#a32e77e72f05ef7556a8d257f8a49c2e0',1,'Gene_t::Gene_t()'],['../class_gene__t.html#ab6e8cdda7ad9318c720945cdd7e43eef',1,'Gene_t::Gene_t(const Orf_t &amp;orf)']]],
+  ['geom_5fml',['geom_ml',['../kelley_8cc.html#a356e63dfd4361a79010c899dbcc94f10',1,'geom_ml(double &amp;p, vector&lt; double &gt; &amp;dist):&#160;kelley.cc'],['../kelley_8hh.html#a356e63dfd4361a79010c899dbcc94f10',1,'geom_ml(double &amp;p, vector&lt; double &gt; &amp;dist):&#160;kelley.cc']]],
+  ['get_5ferrors',['Get_Errors',['../class_gene__t.html#ad31bfa1b18b2c74254bf4057dbe5a5e7',1,'Gene_t']]],
+  ['get_5fframe',['Get_Frame',['../class_orf__t.html#acc27354b23657bcabb7fa1c8b0410114',1,'Orf_t']]],
+  ['get_5fgene_5flen',['Get_Gene_Len',['../class_orf__t.html#a85c7cea47c08edb2bd0126d286fe437d',1,'Orf_t']]],
+  ['get_5fid',['Get_ID',['../class_gene__t.html#a3eda23d1046a2818d2402e67cefa3a08',1,'Gene_t']]],
+  ['get_5fignore_5fregions',['Get_Ignore_Regions',['../glimmer__base_8cc.html#aa173495a7b6b19ab744077d31ac166d9',1,'Get_Ignore_Regions(void):&#160;glimmer_base.cc'],['../glimmer__base_8hh.html#aa173495a7b6b19ab744077d31ac166d9',1,'Get_Ignore_Regions(void):&#160;glimmer_base.cc']]],
+  ['get_5flength',['Get_Length',['../class_fixed___length___i_c_m__t.html#a41d9138964a174337c88aafeb226f32e',1,'Fixed_Length_ICM_t']]],
+  ['get_5fmodel_5flen',['Get_Model_Len',['../class_i_c_m__t.html#a18b38ee0cd6d14ab905e0bdd0543a4f8',1,'ICM_t']]],
+  ['get_5fmutual_5finfo',['Get_Mutual_Info',['../icm_8cc.html#a68e355e14507308c7c42232e4867984b',1,'Get_Mutual_Info(int ct [], int n, int sum):&#160;icm.cc'],['../icm_8hh.html#a68e355e14507308c7c42232e4867984b',1,'Get_Mutual_Info(int ct [], int n, int sum):&#160;icm.cc']]],
+  ['get_5folap_5ffix',['Get_Olap_Fix',['../glimmer2_8cc.html#a054f11827ebf43b174813360dca2ef9c',1,'glimmer2.cc']]],
+  ['get_5forf_5flen',['Get_Orf_Len',['../class_orf__t.html#a3ba0a5d4d0d22c59b9fc489352f3434c',1,'Orf_t']]],
+  ['get_5fperiodicity',['Get_Periodicity',['../class_i_c_m__t.html#abec9beb5c609c54448738f161c72fa89',1,'ICM_t']]],
+  ['get_5fscore',['Get_Score',['../class_gene__t.html#a6efd781c0c836fc6a643fcf134b63468',1,'Gene_t']]],
+  ['get_5fsequence_5flengths',['Get_Sequence_Lengths',['../glimmer__base_8cc.html#ad870dc1b6e552a475d828a5e6ec32106',1,'Get_Sequence_Lengths():&#160;glimmer_base.cc'],['../glimmer__base_8hh.html#ad870dc1b6e552a475d828a5e6ec32106',1,'Get_Sequence_Lengths():&#160;glimmer_base.cc']]],
+  ['get_5fstatus',['Get_Status',['../class_gene__t.html#abf84b4a15bc228794bbd862a0f5f50e0',1,'Gene_t']]],
+  ['get_5fstatus_5fbit',['Get_Status_Bit',['../class_gene__t.html#a5ff105e3240f031cdd714df4d188e6ec',1,'Gene_t']]],
+  ['get_5fstop_5fposition',['Get_Stop_Position',['../class_orf__t.html#a05a583bdb194fc636aa4cff0fc0ca344',1,'Orf_t']]],
+  ['getmodellength',['getModelLength',['../class_fixed___length___i_c_m__t.html#ad3b29cbd68eb5dcf40e66540bfca4dda',1,'Fixed_Length_ICM_t']]],
+  ['getmodeltype',['getModelType',['../class_fixed___length___i_c_m__t.html#a3dbb06e4da5a0ae8373d60e300b1ab62',1,'Fixed_Length_ICM_t']]],
+  ['getspecialposition',['getSpecialPosition',['../class_fixed___length___i_c_m__t.html#acca1a613ab390e3a01a4b670b4a58e97',1,'Fixed_Length_ICM_t']]]
+];
